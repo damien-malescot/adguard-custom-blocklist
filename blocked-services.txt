@@ -10,3 +10,5 @@
 ||strmt.tf1.fr^
 ||m6.fr^
 ||www.m6.fr^
+||6play.fr^
+||6cloud.fr^
