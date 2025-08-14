@@ -1,0 +1,12 @@
+||tf1.fr^
+||player.tf1.fr^
+||prod-player.tf1.fr^
+||api.mytf1^
+||mytf1.restapi^
+||dnl-adv-ssl.tf1.fr^
+||delivery.tf1.fr^
+||tf1-das-live-ssl.tf1.fr^
+||das-q1-ssl.tf1.fr^
+||strmt.tf1.fr^
+||m6.fr^
+||www.m6.fr^
